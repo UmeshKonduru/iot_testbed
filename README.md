@@ -9,3 +9,5 @@
 
 ### link for Gateway
 https://github.com/utkarshpatel7356/iot_gateway
+
+<img width="886" height="658" alt="image" src="https://github.com/user-attachments/assets/35b05f0b-dbc6-4e84-87a5-990b597981cf" />
