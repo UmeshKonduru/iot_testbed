@@ -1,3 +1,7 @@
+### Project Presentaion:
+
+[![Preview](./demo.png)](./ppt2.pdf)
+
 ### Backend
 - `pip install requirements.txt` (ideally in venv)
 - to run server - `uvicorn app.main:app --reload`
@@ -9,5 +13,3 @@
 
 ### link for Gateway
 https://github.com/utkarshpatel7356/iot_gateway
-
-[![Preview](./demo.png)](./ppt2.pdf)
