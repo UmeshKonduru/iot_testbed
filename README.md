@@ -6,3 +6,6 @@
 ### Frontend
 - `npm install` - to install deps
 - `npm run dev` - to start frontend
+
+### link for Gateway
+https://github.com/utkarshpatel7356/iot_gateway
